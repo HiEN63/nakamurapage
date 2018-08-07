@@ -6,4 +6,4 @@
 <br>
 ##  写真
 <br>
-[ここ](https://hien63.github.io/nakamurapage/photopage"photo")
+[ここ](https://hien63.github.io/nakamurapage/photopage)
