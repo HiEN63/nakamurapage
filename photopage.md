@@ -1,2 +1,16 @@
-# hoge
-![test](https://github.com/HiEN63/page_img/blob/master/img/DSC_0262.jpg)
+# 最近の写真
+![262](https://github.com/HiEN63/page_img/blob/master/img/DSC_0262.jpg)
+![274](https://github.com/HiEN63/page_img/blob/master/img/DSC_0274.jpg)
+![355](https://github.com/HiEN63/page_img/blob/master/img/DSC_0355.jpg)
+![372](https://github.com/HiEN63/page_img/blob/master/img/DSC_0372.jpg)
+![455](https://github.com/HiEN63/page_img/blob/master/img/DSC_0455.jpg)
+![519](https://github.com/HiEN63/page_img/blob/master/img/DSC_0519.jpg)
+<br>
+***
+<br>
+# 撮影環境
+Cam : NikonD5500
+Lens : AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR II
+Filter : Nikon ニュートラルカラーフィルターNC 52mm NC-52 
+Edit : Adobe LightRoom
+
