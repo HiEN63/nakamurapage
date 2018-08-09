@@ -1,9 +1,18 @@
 #  なかむらのぺーじ
 <br>
-##  ぷろぐらむ
+#  ぷろぐらむ
 <br>
 ~~内容がないよう~~
 <br>
-##  写真
+#  [写真](https://hien63.github.io/nakamurapage/photopage)
 <br>
-[ここ](https://hien63.github.io/nakamurapage/photopage)
+#  SNS
+<br>
+Twitter : @NakamuraHien
+Instagram : nakamura_wa
+<br>
+
+***
+<br>
+## 更新履歴
+2018/08/10 : ページの作成、写真の更新
