@@ -1,16 +1,17 @@
 # 最近の写真
 
-![262](https://github.com/HiEN63/page_img/blob/master/img/DSC_0262.jpg)
+![262](https://github.com/HiEN63/page_img/blob/master/img/DSC_0262-mini.jpg)
 
-![274](https://github.com/HiEN63/page_img/blob/master/img/DSC_0274.jpg)
+![274](https://github.com/HiEN63/page_img/blob/master/img/DSC_0274-mini.jpg)
 
-![355](https://github.com/HiEN63/page_img/blob/master/img/DSC_0355.jpg)
+![355](https://github.com/HiEN63/page_img/blob/master/img/DSC_0355-mini.jpg)
 
-![372](https://github.com/HiEN63/page_img/blob/master/img/DSC_0372.jpg)
+![372](https://github.com/HiEN63/page_img/blob/master/img/DSC_0372-mini.jpg)
 
-![455](https://github.com/HiEN63/page_img/blob/master/img/DSC_0455.jpg)
+![455](https://github.com/HiEN63/page_img/blob/master/img/DSC_0455-mini.jpg)
 
-![519](https://github.com/HiEN63/page_img/img/DSC_0519.jpg)
+![519](https://github.com/HiEN63/page_img/blob/master/img/DSC_0519-mini.jpg)
+
 
 <br>
 
