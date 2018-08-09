@@ -8,7 +8,7 @@
 <br>
 #  SNS
 <br>
-Twitter : @NakamuraHien
+Twitter : @NakamuraHien <br>
 Instagram : nakamura_wa
 <br>
 
